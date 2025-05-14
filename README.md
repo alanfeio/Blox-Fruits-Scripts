@@ -67,6 +67,7 @@ FaiFao V2
 loadstring(game:HttpGet"https://raw.githubusercontent.com/PNguyen0199/Script/refs/heads/main/Fai-Fao-Ver2.lua")() 
 
 Quantum Onyx
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Trustmenotcondom/QTONYX/refs/heads/main/QuantumOnyx.lua"))()
 
 Astral Hub
@@ -78,22 +79,28 @@ W azure
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc6104dabe8e19562e5cc2.lua"))()
 
 Zenith Hub
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Efe0626/RaitoHub/main/Script"))
 
 Alchemy Hub
 loadstring(game:HttpGet("https://scripts.alchemyhub.xyz"))()
 
 Aurora Hub
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jadelly261/BloxFruits/main/Aurora", true))()
 
 Vxeze Hub
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/Vxezehub/refs/heads/main/VxezeHubMain"))()
 
 Goblin Hub
+
 loadstring(game:HttpGet('https://raw.githubusercontent.com/GoblinKun009/Script/main/GoblinLoader'))()
 
 Volcano Hub V3
+
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/indexeduu/BF-NewVer/refs/heads/main/V3New.lua"))()
 
 Zen Hub
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenhubtop/zen_hub_pr/main/zennewwwwui.lua", true))()
