@@ -83,6 +83,7 @@ Zenith Hub
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Efe0626/RaitoHub/main/Script"))
 
 Alchemy Hub
+
 loadstring(game:HttpGet("https://scripts.alchemyhub.xyz"))()
 
 Aurora Hub
